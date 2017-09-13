@@ -1,0 +1,7 @@
+INSTALAR SASS EN NODE
+
+npm install node-sass sass-loader raw-loader --save-dev
+
+CREAR UN PROYECTO CON SASS
+
+ng new NombreProyecto --style=scss
